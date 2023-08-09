@@ -6,7 +6,6 @@ def read_and_return_file_data(filename: str) -> list:
 def process_name(fullstr: str) -> list[str]:
     title = fullstr[:-7]
     year = fullstr[-5:-1]
-    print(f"PROCESS NAME: {title}        {year}")
     return [title,year]
     
 def create_sql_query(line: list[str]) -> str:
