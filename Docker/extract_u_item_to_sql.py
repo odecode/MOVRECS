@@ -13,7 +13,7 @@ def create_sql_query(line: list[str]) -> str:
     title = line[1]
     year = line[2]
     title = title.replace("'","")
-    sql_query = "INSERT INTO Movies (id,title,year_created) VALUES ({},'{}',{});\n".format(movieid,title,year)
+    sql_query = "INSERT INTO \"Movies\" (id,title,year_created) VALUES ({},'{}',{});\n".format(movieid,title,year)
     return sql_query
 
 def write_sql_file(queries: list[str]):

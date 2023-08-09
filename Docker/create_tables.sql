@@ -1,17 +1,17 @@
-CREATE TABLE [IF NOT EXISTS] Users (
+CREATE TABLE IF NOT EXISTS Users (
 	id integer PRIMARY KEY,
 	username varchar(20) UNIQUE NOT NULL,
 	password varchar(50) NOT NULL,
 	email varchar(255) UNIQUE NULL
 );
 
-CREATE TABLE [IF NOT EXISTS] Movies (
+CREATE TABLE IF NOT EXISTS Movies (
 	id integer PRIMARY KEY,
 	title varchar(50) UNIQUE NOT NULL,
-	year_created integer NULL,
+	year_created integer NULL
 );
 
-CREATE TABLE [IF NOT EXISTS] UserMovieRatings (
+CREATE TABLE IF NOT EXISTS UserMovieRatings (
 	user_id INT NOT NULL,
 	movie_id INT NOT NULL,
 	rating float,
