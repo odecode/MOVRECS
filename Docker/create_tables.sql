@@ -7,7 +7,7 @@ CREATE TABLE IF NOT EXISTS Users (
 
 CREATE TABLE IF NOT EXISTS Movies (
 	id integer PRIMARY KEY,
-	title varchar(50) UNIQUE NOT NULL,
+	title varchar(255) NOT NULL,
 	year_created integer NULL
 );
 

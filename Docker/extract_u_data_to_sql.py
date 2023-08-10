@@ -8,7 +8,7 @@ def create_sql_query(line: list[str]) -> str:
     movieid = line[1]
     rating = int(line[2])
     
-    sql_query = "INSERT INTO \"UserMovieRatings\" (user_id,movie_id,rating) VALUES ({},{},{});\n".format(userid,movieid,rating)
+    sql_query = "INSERT INTO usermovieratings (user_id,movie_id,rating) VALUES ({},{},{});\n".format(userid,movieid,rating)
     return sql_query
 
 def write_sql_file(queries: list[str]):

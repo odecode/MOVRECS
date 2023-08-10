@@ -1,3 +1,4 @@
+import re
 def read_and_return_file_data(filename: str) -> list:
     with open(filename, "r") as file:
         data = file.readlines()
@@ -12,8 +13,15 @@ def create_sql_query(line: list[str]) -> str:
     movieid = line[0]
     title = line[1]
     year = line[2]
+    pattern_numeric = r'[^0-9]'
+    pattern_title = r'[^a-zA-Z0-9,;:. ]'
+    movieid_regexed = re.sub(pattern_numeric,"",movieid)
+    year_regexed = re.sub(pattern_numeric,"",year)
+    if len(year_regexed) < 1:
+        year_regexed = "0000"
     title = title.replace("'","")
-    sql_query = "INSERT INTO \"Movies\" (id,title,year_created) VALUES ({},'{}',{});\n".format(movieid,title,year)
+    title_regexed = re.sub(pattern_title,"",title)
+    sql_query = "INSERT INTO movies (id,title,year_created) VALUES ({},'{}',{});\n".format(movieid_regexed,title_regexed,year_regexed)
     return sql_query
 
 def write_sql_file(queries: list[str]):
@@ -30,7 +38,7 @@ if __name__ == "__main__":
         # print(f"LINE AS LIST: {line_as_list}")
         name = line_as_list[1]
         # print(f"NAME:   {name}")
-        querydata_firstpart = [index]
+        querydata_firstpart = [str(index)]
         querydata_secondpart = process_name(name)
         querydata = querydata_firstpart + querydata_secondpart
         query = create_sql_query(querydata)
