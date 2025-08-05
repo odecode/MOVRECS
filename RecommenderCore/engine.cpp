@@ -65,7 +65,7 @@ float RatingCalculator::predict_rating(int item){
     float rating = this->datamatrix.data[this->datamatrix.get_index(this->user,this->item)];
 
     if(rating != 0.0f){
-        std::cout << "Rating already observed\n";
+        // std::cout << "Rating already observed\n";
         return -1.0f;
     }
     else{

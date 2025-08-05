@@ -1,0 +1,901 @@
+Elapsed time: 72.88 seconds
+User 1:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 56.2984 1501 predictions
+
+User 2:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 56.9874 1501 predictions
+
+User 3:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 56.9499 1501 predictions
+
+User 4:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 68.6121 1501 predictions
+
+User 5:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 69.7006 1501 predictions
+
+User 6:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 61.9531 1501 predictions
+
+User 7:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 68.5067 1501 predictions
+
+User 8:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 62.9985 1501 predictions
+
+User 9:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 56.7945 1501 predictions
+
+User 10:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 65.6583 1501 predictions
+
+User 11:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 56.7043 1501 predictions
+
+User 12:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 63.3458 1501 predictions
+
+User 13:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 69.2435 1501 predictions
+
+User 14:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 62.6879 1501 predictions
+
+User 15:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 62.6052 1501 predictions
+
+User 16:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 68.3844 1501 predictions
+
+User 17:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 65.8413 1501 predictions
+
+User 18:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 56.0129 1501 predictions
+
+User 19:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 55.966 1501 predictions
+
+User 20:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 56.5363 1501 predictions
+
+User 21:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 58.2526 1501 predictions
+
+User 22:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 56.81 1501 predictions
+
+User 23:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 56.6217 1501 predictions
+
+User 24:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 65.3163 1501 predictions
+
+User 25:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 55.7153 1501 predictions
+
+User 26:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 56.5856 1501 predictions
+
+User 27:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 67.3452 1501 predictions
+
+User 28:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 58.0027 1501 predictions
+
+User 29:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 57.9282 1501 predictions
+
+User 30:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 69.3805 1501 predictions
+
+User 31:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 58.4127 1501 predictions
+
+User 32:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 65.5515 1501 predictions
+
+User 33:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 67.8711 1501 predictions
+
+User 34:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 57.2406 1501 predictions
+
+User 35:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 57.1844 1501 predictions
+
+User 36:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 57.0237 1501 predictions
+
+User 37:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 57.4291 1501 predictions
+
+User 38:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 58.1974 1501 predictions
+
+User 39:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 65.9435 1501 predictions
+
+User 40:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 56.3449 1501 predictions
+
+User 41:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 56.4586 1501 predictions
+
+User 42:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 68.4178 1501 predictions
+
+User 43:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 56.525 1501 predictions
+
+User 44:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 62.3641 1501 predictions
+
+User 45:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 55.7782 1501 predictions
+
+User 46:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 57.1895 1501 predictions
+
+User 47:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 57.0253 1501 predictions
+
+User 48:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 66.1347 1501 predictions
+
+User 49:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 57.0215 1501 predictions
+
+User 50:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 58.2359 1501 predictions
+
+User 51:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 58.2006 1501 predictions
+
+User 52:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 56.7812 1501 predictions
+
+User 53:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 68.5152 1501 predictions
+
+User 54:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 56.0663 1501 predictions
+
+User 55:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 56.4937 1501 predictions
+
+User 56:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 68.4205 1501 predictions
+
+User 57:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 69.3154 1501 predictions
+
+User 58:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 63.3015 1501 predictions
+
+User 59:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 68.3521 1501 predictions
+
+User 60:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 57.0228 1501 predictions
+
+User 61:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 68.9942 1501 predictions
+
+User 62:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 33.4151 1501 predictions
+
+User 63:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 61.564 1501 predictions
+
+User 64:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 69.0264 1501 predictions
+
+User 65:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 54.7973 1501 predictions
+
+User 66:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 56.7492 1501 predictions
+
+User 67:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 56.9686 1501 predictions
+
+User 68:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 58.187 1501 predictions
+
+User 69:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 66.9158 1501 predictions
+
+User 70:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 67.9816 1501 predictions
+
+User 71:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 62.4385 1501 predictions
+
+User 72:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 63.9918 1501 predictions
+
+User 73:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 56.3547 1501 predictions
+
+User 74:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 57.1468 1501 predictions
+
+User 75:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 68.2017 1501 predictions
+
+User 76:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 69.539 1501 predictions
+
+User 77:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 56.0185 1501 predictions
+
+User 78:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 69.5143 1501 predictions
+
+User 79:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 56.3659 1501 predictions
+
+User 80:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 55.2977 1501 predictions
+
+User 81:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 62.8209 1501 predictions
+
+User 82:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 68.254 1501 predictions
+
+User 83:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 61.7364 1501 predictions
+
+User 84:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 56.0325 1501 predictions
+
+User 85:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 68.6752 1501 predictions
+
+User 86:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 69.1252 1501 predictions
+
+User 87:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 63.9178 1501 predictions
+
+User 88:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 57.3263 1501 predictions
+
+User 89:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 55.8225 1501 predictions
+
+User 90:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 63.7968 1501 predictions
+
+User 91:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 66.9227 1501 predictions
+
+User 92:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 56.1663 1501 predictions
+
+User 93:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 57.9296 1501 predictions
+
+User 94:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 56.2521 1501 predictions
+
+User 95:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 63.4992 1501 predictions
+
+User 96:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 57.4534 1501 predictions
+
+User 97:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 66.4727 1501 predictions
+
+User 98:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 57.2728 1501 predictions
+
+User 99:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 55.4788 1501 predictions
+
+User 100:
+Top 5 recommended items for user 10:
+Item: 1397, Predicted rating: 5
+Item: 1616, Predicted rating: 5
+Item: 1188, Predicted rating: 5
+Item: 1466, Predicted rating: 5
+Item: 813, Predicted rating: 5
+Total time 57.0946 1501 predictions
+

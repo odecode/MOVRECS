@@ -63,7 +63,7 @@ RatingMatrix create_simlist(int nusers, int nitems, RatingMatrix matrix){
     RatingMatrix simlist = RatingMatrix(nusers, nitems);
     auto stop = high_resolution_clock::now();
     duration<double> time_span = duration_cast<duration<double>>(stop-start);
-    std::cout << "similarity datastructure allocated in " << time_span.count() << std::endl;
+    // std::cout << "similarity datastructure allocated in " << time_span.count() << std::endl;
 
     for(int i = 0; i < nusers; i++){
         for(int j = 0; j < nusers; j++){
